@@ -6,5 +6,5 @@ The goal of this project is to demonstrate core quantum computing concepts throu
 
 This repository is intended as:
 
-A technical portfolio for GitHub and LinkedIn
-A foundation for more advanced quantum algorithms
+- A technical portfolio for GitHub and LinkedIn
+- A foundation for more advanced quantum algorithms
